@@ -1,8 +1,8 @@
-# Boogie 🚗
+# Boogie
 
-A ride-share prototype designed for blind and low-vision (BLV) users — screen-reader friendly, map-free, and universally usable.
+A ride-share prototype designed for blind and low-vision (BLV) users – screen reader-friendly, map-free, and universally usable.
 
-Built for CS 377Q: Designing for Accessibility at Stanford University.
+Built for CS 377Q: Designing for Accessibility at Stanford University, Winter 2026.
 
 ---
 
@@ -23,7 +23,9 @@ Features include:
 
 Download [Expo Go](https://expo.dev/client) on your phone and scan the QR code below:
 
-![Boogie QR code](qr-code.png)
+<p align="center">
+  <img src="qr-code.png" alt="Boogie QR code" width="200">
+</p>
 
 ---
 
