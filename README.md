@@ -24,7 +24,7 @@ Features include:
 Download [Expo Go](https://expo.dev/client) on your phone and scan the QR code below:
 
 <p align="center">
-  <img src="qr-code.png" alt="Boogie QR code" width="200">
+  <img src="qr-code.png" alt="Boogie QR code" width="300">
 </p>
 
 ---
